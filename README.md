@@ -1,4 +1,4 @@
 # 1stgit
-this is i am learning to create a git account.
+this is a demo for Raya Project.
 <br>
-Author- Raja Paul (Origin)
+Author- Raja Paul (Origin7)
